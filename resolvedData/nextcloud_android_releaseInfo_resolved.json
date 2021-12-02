@@ -1,0 +1,694 @@
+[
+  {
+    "tag_name": "stable-3.18.0",
+    "body": "## 3.18.0 (November 18, 2021)\n\n- Calendar backup/restore\n- Unified search\n- Sharing permissions improvements\n- Minor bug fixes\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "rc-3.18.0-06",
+    "body": "## 3.18.0 RC6 (November 16, 2021)\n\nCalendar backup/restore\nUnified search\nSharing permissions improvements\nMinor bug fixes\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "rc-3.18.0-05",
+    "body": "## 3.18.0 RC5 (November 9, 2021)\n\nCalendar backup/restore\nUnified search\nProfile page for users\nSharing permissions improvements\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "rc-3.18.0-04",
+    "body": "## 3.18.0 RC4 (November 4, 2021)\n\nCalendar backup/restore\nUnified search\nProfile page for users\nSharing permissions improvements\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "rc-3.18.0-03",
+    "body": "## 3.18.0 RC3 (November 4, 2021)\n\nCalendar backup/restore\nUnified search\nProfile page for users\nSharing permissions improvements\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "rc-3.18.0-02",
+    "body": "## 3.18.0 RC2 (October 28, 2021)\n\nCalendar backup/restore\nUnified search\nProfile page for users\nSharing permissions improvements\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "rc-3.18.0-01",
+    "body": "## 3.18.0 RC1 (October 25, 2021)\n\nCalendar backup/restore\nUnified search\nProfile page for users\nSharing permissions improvements\n\nMinimum: NC 16 Server, Android 6.0 Marshmallow\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/61\n"
+  },
+  {
+    "tag_name": "stable-3.17.1",
+    "body": "## 3.17.1 (October, 20, 2021)\r\n\r\nfix FIDO crash\r\nfix crash in documents provider while offline\r\nupdated translations\r\n\r\nMinimum: NC 16 Server, Android 5.1 Lollipop\r\n\r\nFor a full list, please see https://github.com/nextcloud/android/milestone/60\r\n"
+  },
+  {
+    "tag_name": "rc-3.17.1-01",
+    "body": "## 3.17.1 RC1 (September, 28, 2021)\n\nfix FIDO crash\nfix crash in documents provider while offline\nupdated translations\n\nMinimum: NC 16 Server, Android 5.1 Lollipop\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/59\n"
+  },
+  {
+    "tag_name": "stable-3.17.0",
+    "body": "## 3.17.0 (August, 19, 2021)\n\nUI improvements (Avatar, password dialog)\nNew video player for better streaming\nMany bug fixes\n\nMinimum: NC 16 Server, Android 5.1 Lollipop\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/59\n"
+  },
+  {
+    "tag_name": "rc-3.17.0-03",
+    "body": "## 3.17.0 RC3 (August, 11, 2021)\n\nUI improvements (Avatar, password dialog)\nNew video player for better streaming\nMany bug fixes\n\nMinimum: NC 16 Server, Android 5.1 Lollipop\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/59\n"
+  },
+  {
+    "tag_name": "rc-3.17.0-02",
+    "body": "## 3.17.0 RC2 (July, 14, 2021)\n\nUI improvements (Avatar, password dialog)\nNew video player for better streaming\nMany bug fixes\n\nMinimum: NC 16 Server, Android 5.1 Lollipop\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/59\n"
+  },
+  {
+    "tag_name": "rc-3.17.0-01",
+    "body": "## 3.17.0 RC1 (July, 06, 2021)\n\nUI improvements (Avatar, password dialog)\nNew video player for better streaming\nMany bug fixes\n\nMinimum: NC 16 Server, Android 5.1 Lollipop\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/59\n"
+  },
+  {
+    "tag_name": "stable-3.16.1",
+    "body": "## 3.16.1 (June, 01, 2021)\n\nFix media tab not showing images/videos\nConnectivity checks fixed\nCrashing while retrieving avatar\n\nMinimum: NC 16 Server, Android 5.0 Lollipop \n\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/58\n"
+  },
+  {
+    "tag_name": "rc-3.16.1-01",
+    "body": "## 3.16.1 RC1 (May, 27, 2021)\n\nFix media tab not showing images/videos\nConnectivity checks fixed\nCrashing while retrieving avatar\n\nMinimum: NC 16 Server, Android 5.0 Lollipop \n\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/58\n"
+  },
+  {
+    "tag_name": "stable-3.16.0",
+    "body": "## 3.16.0 (May, 05, 2021)\n\nEnhance sharing \nUpdate template section when creating new files\nPin protection update\nUpdated notification handling during updates @newhinton\nUI improvements\n\nMinimum: NC 16 Server, Android 5.0 Lollipop \n\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/55\n"
+  },
+  {
+    "tag_name": "rc-3.16.0-02",
+    "body": "## 3.16.0 RC2 (March, 18, 2021)\n\nEnhance sharing \nUpdate template section when creating new files\nPin protection update\nUpdated notification handling during updates @newhinton\nUI improvements\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/55\n"
+  },
+  {
+    "tag_name": "rc-3.16.0-01",
+    "body": "## 3.16.0 RC1 (March, 16, 2021)\n\nEnhance sharing \nUpdate template section when creating new files\nPin protection update\nUpdated notification handling during updates @newhinton\nUI improvements\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/55\n"
+  },
+  {
+    "tag_name": "stable-3.15.1",
+    "body": "## 3.15.1 (March, 10, 2021)\n\n- share fix\n- passcode fix\n- enhance share access\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/57\n"
+  },
+  {
+    "tag_name": "rc-3.15.1-02",
+    "body": "## 3.15.1 RC2 (March, 04, 2021)\n\n- share fix\n- passcode fix\n- enhance share access\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/57\n"
+  },
+  {
+    "tag_name": "rc-3.15.1-01",
+    "body": "## 3.15.1 RC1 (February, 24, 2021)\n\n- share fix\n- passcode fix\n- enhance share access\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/57\n"
+  },
+  {
+    "tag_name": "stable-3.15.0",
+    "body": "## 3.15.0 (February, 02, 2021)\n\nMedia instead of Photos: also show videos\nUI Improvement (shimmer)\nBug fixes all over the place\nDrop Android 4.4, new min version Android 5.0\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/52\n"
+  },
+  {
+    "tag_name": "rc-3.15.0-01",
+    "body": "## 3.15.0 RC1 (January, 14, 2021)\n\nMedia instead of Photos: also show videos\nBug fixes all over the place\nDrop Android 4.4, new min version Android 5.0\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/52\n"
+  },
+  {
+    "tag_name": "stable-3.14.3",
+    "body": "## 3.14.3 (January, 14, 2021)\r\n\r\nFix crash when clicking \"+\" button\r\nFix push notifications on some devices\r\nFix updating of sharee list\r\nFix crash during setting status\r\nFix Crash Sharing files to Nextcloud via Android Apps\r\n\r\nFor a full list, please see https://github.com/nextcloud/android/milestone/56\r\n"
+  },
+  {
+    "tag_name": "stable-3.14.2",
+    "body": "## 3.14.2 (January, 13, 2021)\n\nFix push notifications on some devices\nFix updating of sharee list\nFix crash during setting status\nFix Crash Sharing files to Nextcloud via Android Apps\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/54\n"
+  },
+  {
+    "tag_name": "rc-3.14.2-01",
+    "body": "## 3.14.2 RC1 (January, 05, 2021)\n\nFix push notifications on some devices\nFix updating of sharee list\nFix crash during setting status\nFix Crash Sharing files to Nextcloud via Android Apps\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/54\n"
+  },
+  {
+    "tag_name": "stable-3.14.1",
+    "body": "## 3.14.1 (December, 02, 2020)\n\nFix crash due to service not started in time\nFix UI while media playback\nFix uploading direct camera images with more than one picture\nFix conflict handling on auto upload\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/53\n"
+  },
+  {
+    "tag_name": "rc-3.14.1-02",
+    "body": "## 3.14.1 RC2 (November, 25, 2020)\n\nFix crash due to service not started in time\nFix UI while media playback\nFix uploading direct camera images with more than one picture\nFix conflict handling on auto upload\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/53\n"
+  },
+  {
+    "tag_name": "rc-3.14.1-01",
+    "body": "## 3.14.1 RC1 (November, 23, 2020)\n\nFix crash due to service not started in time\nFix UI while media playback\nFix uploading direct camera images with more than one picture\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/53\n"
+  },
+  {
+    "tag_name": "stable-3.14.0",
+    "body": "## 3.14.0 (November, 18, 2020)\n\nPrevent Firebase crashes: Exodus will warn about tracker, but code wise it is disabled\nStatus support\nDocument storage enhancement @tgrote\nAuto upload media detection improvements @AndyScherzinger\nSharing UI rewrite\nDrop Android 4.3, new min version Android 4.4\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/50\n"
+  },
+  {
+    "tag_name": "rc-3.14.0-02",
+    "body": "## 3.14.0 RC2 (November, 09, 2020)\n\nPrevent Firebase crashes: Exodus will warn about tracker, but code wise it is disabled\nStatus support\nDocument storage enhancement @tgrote\nAuto upload media decetion improvements @AndyScherzinger\nSharing UI rewrite\nDrop Android 4.3, new min version Android 4.4\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/50\n"
+  },
+  {
+    "tag_name": "rc-3.14.0-01",
+    "body": "## 3.14.0 RC1 (October, 30, 2020)\n\nPrevent Firebase crashes: Exodus will warn about tracker, but code wise it is disabled\nStatus support\nDocument storage enhancement @tgrote\nAuto upload media decetion improvements @AndyScherzinger\nSharing UI rewrite\nDrop Android 4.3, new min version Android 4.4\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/50\n"
+  },
+  {
+    "tag_name": "stable-3.13.1",
+    "body": "## 3.13.1 (September, 15, 2020)\n\n- bugfix release\n- auto upload obey metered network\n- fix adding account via qrCode\n- fix deleting password on share\n- fix conflict handling on auto upload\n- lots more\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/51\n"
+  },
+  {
+    "tag_name": "rc-3.13.1-01",
+    "body": "## 3.13.1 RC1 (September, 08, 2020)\r\n\r\n- bugfix release\r\n- auto upload obey metered network\r\n- fix adding account via qrCode\r\n- fix deleting password on share\r\n- fix conflict handling on auto upload\r\n- lots more\r\n\r\nFor a full list, please see https://github.com/nextcloud/android/milestone/51\r\n"
+  },
+  {
+    "tag_name": "stable-3.13.0",
+    "body": "## 3.13.0 (August, 18, 2020)\n\n- new UI overhaul @Shagequi @JorisBodin\n- E2EE beta support\n- dark mode enhancement @AndyScherzinger\n- warn on outdated NC16 server\n- requires Android 4.3 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/48\n"
+  },
+  {
+    "tag_name": "rc-3.13.0-04",
+    "body": "## 3.13.0 RC4 (August, 07, 2020)\n\n- new UI overhaul @Shagequi @JorisBodin\n- E2EE beta support\n- dark mode enhancement @AndyScherzinger\n- warn on outdated NC16 server\n- requires Android 4.3 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/48\n"
+  },
+  {
+    "tag_name": "rc-3.13.0-03",
+    "body": "## 3.13.0 RC3 (August, 04, 2020)\n\n- new UI overhaul @Shagequi @JorisBodin\n- E2EE beta support\n- dark mode enhancement @AndyScherzinger\n- warn on outdated NC16 server\n- requires Android 4.3 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/48\n"
+  },
+  {
+    "tag_name": "rc-3.13.0-02",
+    "body": "## 3.13.0 RC2 (July, 30, 2020)\n\n- new UI overhaul @Shagequi @JorisBodin\n- E2EE beta support\n- dark mode enhancement @AndyScherzinger\n- warn on outdated NC16 server\n- requires Android 4.3 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/48\n"
+  },
+  {
+    "tag_name": "rc-3.13.0-01",
+    "body": "## 3.13.0 RC1 (July, 23, 2020)\n\n- new UI overhaul @Shagequi @JorisBodin\n- E2EE beta support\n- dark mode enhancement @AndyScherzinger\n- warn on outdated NC16 server\n- requires Android 4.3 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/48\n"
+  },
+  {
+    "tag_name": "stable-3.12.1",
+    "body": "## 3.12.1 (July, 07, 2020)\n\n- UI does not hang when changing auto upload\n- fix crash on contacts backup settings\n- bugfixes\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/49\n"
+  },
+  {
+    "tag_name": "rc-3.12.1-01",
+    "body": "## 3.12.1 RC1 (July, 01, 2020)\n\n- UI does not hang when changing auto upload\n- fix crash on contacts backup settings\n- bugfixes\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/49\n"
+  },
+  {
+    "tag_name": "stable-3.12.0",
+    "body": "## 3.12.0 (June, 10, 2020)\n\n- add circle support for searching/displaying\n- if no offline editor is available, use OO/Cool/Text\n- add possibility to set expiration date on user/group shares (NC18+)\n- rich workspaces can be disabled on server side\n- improved loading view\n- requires Android 4.2 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/42\n"
+  },
+  {
+    "tag_name": "rc-3.12.0-03",
+    "body": "## 3.12.0 RC3 (June, 03, 2020)\n\n- add circle support for searching/displaying\n- if no offline editor is available, use OO/Cool/Text\n- add possibility to set expiration date on user/group shares (NC18+)\n- rich workspaces can be disabled on server side\n- improved loading view\n- requires Android 4.2 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/42\n"
+  },
+  {
+    "tag_name": "rc-3.12.0-02",
+    "body": "## 3.12.0 RC2 (May, 15, 2020)\n\n- add circle support for searching/displaying\n- if no offline editor is available, use OO/Cool/Text\n- add possibility to set expiration date on user/group shares (NC18+)\n- rich workspaces can be disabled on server side\n- improved loading view\n- requires Android 4.2 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/42\n"
+  },
+  {
+    "tag_name": "rc-3.12.0-01",
+    "body": "## 3.12.0 RC1 (April, 29, 2020)\n\n- add circle support for searching/displaying\n- if no offline editor is available, use OO/Cool/Text\n- add possibility to set expiration date on user/group shares (NC18+)\n- rich workspaces can be disabled on server side\n- improved loading view\n- requires Android 4.2 or newer\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/42\n"
+  },
+  {
+    "tag_name": "stable-3.11.1",
+    "body": "3.11.1 (April, 23, 2020)\n\n- Crash while browsing files\n- auto upload:\n - fix wrong conflict detection on custom folder\n - allow to choose default conflict strategy @fodinabor\n - fix hanging UI after saving\n- open office files online if no local app installed\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/47\n"
+  },
+  {
+    "tag_name": "rc-3.11.1-01",
+    "body": "3.11.1 RC1 (April, 16, 2020)\n\n- Crash while browsing files\n- auto upload:\n - fix wrong conflict detection on custom folder\n - allow to choose default conflict strategy @fodinabor\n - fix hanging UI after saving\n- open office files online if no local app installed\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/41\n"
+  },
+  {
+    "tag_name": "stable-3.11.0",
+    "body": "3.11.0 (March, 26, 2020)\n\n- not enough space dialog @Shagequi\n- fix shared search\n- upload existing images in auto upload @koying @ArisuOngaku\n- allow deep links @Charon77\n- support for circle\n- last version supporting Android 4.1\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/41\n"
+  },
+  {
+    "tag_name": "rc-3.11.0-04",
+    "body": "3.11.0 RC4 (March, 23, 2020)\n\n- not enough space dialog @Shagequi\n- fix shared search\n- upload existing images in auto upload @koying @ArisuOngaku\n- allow deep links @Charon77\n- support for circle\n- last version supporting Android 4.1\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/41\n"
+  },
+  {
+    "tag_name": "rc-3.11.0-03",
+    "body": "3.11.0 RC3 (March, 18, 2020)\n\n- not enough space dialog @Shagequi\n- fix shared search\n- upload existing images in auto upload @koying @ArisuOngaku\n- allow deep links @Charon77\n- support for circle\n- last version supporting Android 4.1\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/41\n"
+  },
+  {
+    "tag_name": "rc-3.11.0-02",
+    "body": "3.11.0 RC2 (March, 11, 2020)\n\n- not enough space dialog @Shagequi\n- fix shared search\n- upload existing images in auto upload @koying @ArisuOngaku\n- allow deep links @Charon77\n- last version supporting Android 4.1\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/41\n"
+  },
+  {
+    "tag_name": "rc-3.11.0-01",
+    "body": "3.11.0 RC1 (March, 05, 2020)\n\n- not enough space dialog @Shagequi\n- fix shared search\n- upload existing images in auto upload @koying @ArisuOngaku @AndyScherzinger\n- allow deep links @Charon77\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/41\n"
+  },
+  {
+    "tag_name": "stable-3.10.1",
+    "body": "3.10.1 (February, 05, 2020)\n\n- fix crash on self-signed certificates\n- fix openOffice open files with special chars\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/45\n"
+  },
+  {
+    "tag_name": "rc-3.10.1-01",
+    "body": "3.10.1 RC1 (February, 03, 2020)\n\n- fix crash on self-signed certificates\n- fix openOffice open files with special chars\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/45\n"
+  },
+  {
+    "tag_name": "stable-3.10.0",
+    "body": "3.10.0 (January, 17, 2020)\n\n- Dark theme (@dan0xii, @AndyScherzinger)\n- Rich workspace (NC18+)\n- collaborative text editor (NC18+)\n- links in Markdown previews clickable (@AndyScherzinger)\n- Show/Hide auto upload list items (@AndyScherzinger)\n- drop 4.0.x support\n- outdated server warning set to NC15\n- latest supported version NC13\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/40\n"
+  },
+  {
+    "tag_name": "rc-3.10.0-03",
+    "body": "3.10.0 RC3 (January, 14, 2020)\n\n- Dark theme (@dan0xii, @AndyScherzinger)\n- Rich workspace (NC18+)\n- collaborative text editor (NC18+)\n- links in Markdown previews clickable (@AndyScherzinger)\n- Show/Hide auto upload list items (@AndyScherzinger)\n- drop 4.0.x support\n- outdated server warning set to NC15\n- latest supported version NC13\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/40\n"
+  },
+  {
+    "tag_name": "rc-3.10.0-02",
+    "body": "3.10.0 RC2 (January, 10, 2020)\n\n- Dark theme (@dan0xii, @AndyScherzinger)\n- Rich workspace (NC18+)\n- collaborative text editor (NC18+)\n- links in Markdown previews clickable (@AndyScherzinger)\n- Show/Hide auto upload list items (@AndyScherzinger)\n- drop 4.0.x support\n- outdated server warning set to NC15\n- latest supported version NC13\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/40\n"
+  },
+  {
+    "tag_name": "rc-3.10.0-01",
+    "body": "3.10.0 RC1 (January, 08, 2020)\n\n- Dark theme (@dan0xii, @AndyScherzinger)\n- Rich workspace (NC18+)\n- collaborative text editor (NC18+)\n- links in Markdown previews clickable (@AndyScherzinger)\n- Show/Hide auto upload list items (@AndyScherzinger)\n- drop 4.0.x support\n- outdated server warning set to NC15\n- latest supported version NC13\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/40\n"
+  },
+  {
+    "tag_name": "stable-3.9.2",
+    "body": "3.9.2 (December, 05, 2019)\n\n- HOTFIX: fix login loop\n- Fix crash on opening png images\n- Translation updates\n"
+  },
+  {
+    "tag_name": "stable-3.9.1",
+    "body": "3.9.1 (December, 04, 2019)\n\n- Fix crash on opening png images\n- Translation updates\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/43\n"
+  },
+  {
+    "tag_name": "rc-3.9.1-01",
+    "body": "3.9.1 RC1 (November, 26, 2019)\n\n- Fix crash on opening png images\n- Translation updates\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/43\n"
+  },
+  {
+    "tag_name": "stable-3.9.0",
+    "body": "3.9.0 (November, 12, 2019)\n\n- preview Markdown with syntax highlighting @AndyScherzinger\n- improved DavX5 integration @bitfireAT\n- AutoUpload: allow files to upload into subfolder\n- new media player service @ezaquarii\n- Remote wipe integration\n- Print from within Collabora\n- enhanced SingleSignOn\n- outdated server warning set to NC14\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/38\n"
+  },
+  {
+    "tag_name": "rc-3.9.0-01",
+    "body": "3.9.0 RC1 (October, 28, 2019)\n\n- preview Markdown with syntax highlighting @AndyScherzinger\n- improved DavX5 integration @bitfireAT\n- AutoUpload: allow files to upload into subfolder\n- new media player service @ezaquarii\n- Remote wipe integration\n- Print from within Collabora\n- enhanced SingleSignOn\n- outdated server warning set to NC14\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/38\n"
+  },
+  {
+    "tag_name": "stable-3.8.1",
+    "body": "3.8.1 (October, 11, 2019)\n\n- upload images into subfolder, if source folder also has subfolder\n- Fix registration of second account on first run\n- fix disappearing account list\n- fix recurring synced folder notification\n- fix vanishing images\n- auto upload: fix relative paths\n- bugfix release\n- updated translations\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/39\n"
+  },
+  {
+    "tag_name": "rc-3.8.1-03",
+    "body": "3.8.1 RC3 (October, 10, 2019)\n\n- upload images into subfolder, if source folder also has subfolder\n- Fix registration of second account on first run\n- fix disappearing account list\n- fix recurring synced folder notification\n- fix vanishing images\n- auto upload: fix relative paths\n- bugfix release\n- updated translations\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/39\n"
+  },
+  {
+    "tag_name": "rc-3.8.1-02",
+    "body": "3.8.1 RC2 (October, 09, 2019)\n\n- upload images into subfolder, if source folder also has subfolder\n- Fix registration of second account on first run\n- fix disappearing account list\n- fix recurring synced folder notification\n- bugfix release\n- updated translations\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/39\n"
+  },
+  {
+    "tag_name": "rc-3.8.1-01",
+    "body": "3.8.1 RC1 (October, 02, 2019)\n\n- upload images into subfolder, if source folder also has subfolder\n- Fix registration of second account on first run\n- bugfix release\n- updated translations\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/39\n"
+  },
+  {
+    "tag_name": "stable-3.8.0",
+    "body": "3.8.0 (September, 14, 2019)\n\n- FIDO U2F support on login\n- load only 60 images on photo view, then load more on demand\n- do not auto upload .thumbnail files\n- allow to send crash report via email\n- paste clipboard into Collabora\n- use Conscrypt to support TLS1.3\n- show sharees in list view\n- remote wipe\n- same mimetype as server\n- fix reloading in activity stream\n- lots of bugfixes and refinements\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/35\n"
+  },
+  {
+    "tag_name": "rc-3.8.0-05",
+    "body": "3.8.0 RC5 (September, 10, 2019)\n\n- FIDO U2F support on login\n- load only 60 images on photo view, then load more on demand\n- do not auto upload .thumbnail files\n- allow to send crash report via email\n- paste clipboard into Collabora\n- use Conscrypt to support TLS1.3\n- show sharees in list view\n- remote wipe\n- same mimetype as server\n- fix reloading in activity stream\n- lots of bugfixes and refinements\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/35\n"
+  },
+  {
+    "tag_name": "rc-3.8.0-04",
+    "body": "3.8.0 RC4 (September, 04, 2019)\n\n- FIDO U2F support on login\n- load only 60 images on photo view, then load more on demand\n- do not auto upload .thumbnail files\n- allow to send crash report via email\n- paste clipboard into Collabora\n- use Conscrypt to support TLS1.3\n- show sharees in list view\n- remote wipe\n- same mimetype as server\n- fix reloading in activity stream\n- lots of bugfixes and refinements\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/35\n"
+  },
+  {
+    "tag_name": "rc-3.8.0-03",
+    "body": "3.8.0 RC3 (August, 28, 2019)\n\n- FIDO U2F support on login\n- load only 60 images on photo view, then load more on demand\n- do not auto upload .thumbnail files\n- allow to send crash report via email\n- paste clipboard into Collabora\n- use Conscrypt to support TLS1.3\n- show sharees in list view\n- bugfixes found by RC1\n- fix reloading in activity stream\n- lots of bugfixes and refinements\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/35\n"
+  },
+  {
+    "tag_name": "rc-3.8.0-02",
+    "body": "3.8.0 RC2 (August, 21, 2019)\n\n- FIDO U2F support on login\n- load only 60 images on photo view, then load more on demand\n- do not auto upload .thumbnail files\n- allow to send crash report via email\n- paste clipboard into Collabora\n- use Conscrypt to support TLS1.3\n- show sharees in list view\n- bugfixes found by RC1\n- lots of bugfixes and refinements under the hood to provide an even more stable app\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/35\n"
+  },
+  {
+    "tag_name": "rc-3.8.0-01",
+    "body": "3.8.0 RC1 (August, 21, 2019)\n\n- FIDO U2F support on login\n- load only 60 images on photo view, then load more on demand\n- do not auto upload .thumbnail files\n- allow to send crash report via email\n- paste clipboard into Collabora\n- use Conscrypt to support TLS1.3\n- show sharees in list view\n- lots of bugfixes and refinements under the hood to provide an even more stable app\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/35\n"
+  },
+  {
+    "tag_name": "stable-3.7.2",
+    "body": "3.7.2 (August, 16, 2019)\n\n- Transifex update\n- bump to lib 1.5.0\n"
+  },
+  {
+    "tag_name": "stable-3.7.1",
+    "body": "3.7.1 (July, 30, 2019)\r\n\r\n- fix for Global Scale\r\n\r\nFor a full list, please see https://github.com/nextcloud/android/milestone/36"
+  },
+  {
+    "tag_name": "stable-3.7.0",
+    "body": "3.7.0 (July, 09, 2019)\n\n- Collabora enhancements\n- Chromebook support\n- delete push notifications if read on other device (NC 18 and newer)\n- open file from notification\n- open file from Talk app\n- minimum supported server: NC12\n- end of life warning: NC13 and older\n- lots of bugfixes and refinements under the hood to provide an even more stable app\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/32\n"
+  },
+  {
+    "tag_name": "rc-3.7.0-04",
+    "body": "3.7.0 RC4 (June, 28, 2019)\n\n- Collabora enhancements\n- Chromebook support\n- delete push notifications if read on other device\n- open file from notification\n- open file from Talk app\n- minimum supported server: NC12\n- end of life warning: NC13 and older\n- lots of bugfixes and refinements under the hood to provide an even more stable app\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/32\n"
+  },
+  {
+    "tag_name": "rc-3.7.0-03",
+    "body": "3.7.0 RC3 (June, 13, 2019)\n\n- Collabora enhancements\n- Chromebook support\n- delete push notifications if read on other device\n- open file from notification\n- open file from Talk app\n- minimum supported server: NC12\n- end of life warning: NC13 and older\n- lots of bugfixes and refinements under the hood to provide an even more stable app\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/32\n"
+  },
+  {
+    "tag_name": "rc-3.7.0-02",
+    "body": "3.7.0 RC2 (June, 06, 2019)\n\n- Collabora enhancements\n- Chromebook support\n- delete push notifications if read on other device\n- open file from notification\n- open file from Talk app\n- minimum supported server: NC12\n- end of life warning: NC13 and older\n- lots of bugfixes and refinements under the hood to provide an even more stable app\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/32\n"
+  },
+  {
+    "tag_name": "rc-3.7.0-01",
+    "body": "3.7.0 RC1 (June, 06, 2019)\n\n- Collabora enhancements\n- Chromebook support\n- delete push notifications if read on other device\n- open file from notification\n- open file from Talk app\n- minimum supported server: NC12\n- end of life warning: NC13 and older\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/32\n"
+  },
+  {
+    "tag_name": "stable-3.6.2",
+    "body": "3.6.2 (May, 23, 2019)\n\n- fix bug when creating preview\n- fix crash on opening app\n- fix account switch\n- fix jumping to top on sync\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/34\n"
+  },
+  {
+    "tag_name": "rc-3.6.2-01",
+    "body": "3.6.2 RC1 (May, 21, 2019)\n\n- fix bug when creating preview\n- fix crash on opening app\n- fix account switch\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/34\n"
+  },
+  {
+    "tag_name": "stable-3.6.1",
+    "body": "3.6.1 (May, 12, 2019)\n\n- show reshares correctly\n- allow open files from Talk\n- collabora: hide loading delay warning if document is loaded\n- correctly show idn string in drawer\n- show outdated warning on NC13\n- enhance pass protection system\n- bugfixes\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/33\n"
+  },
+  {
+    "tag_name": "rc-3.6.1-02",
+    "body": "3.6.1 RC2 (May, 08, 2019)\n\n- show reshares correctly\n- allow open files from Talk\n- collabora: hide loading delay warning if document is loaded\n- correctly show idn string in drawer\n- show outdated warning on NC13\n- enhance pass protection system\n- bugfixes\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/33\n"
+  },
+  {
+    "tag_name": "rc-3.6.1-01",
+    "body": "3.6.1 RC1 (May, 06, 2019)\n\n- show reshares correctly\n- allow open files from Talk\n- collabora: hide loading delay warning if document is loaded\n- correctly show idn string in drawer\n- bugfixes\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/33\n"
+  },
+  {
+    "tag_name": "stable-3.6.0",
+    "body": "3.6.0 (April, 09, 2019)\n\n- remove \"expert mode\"\n- show warning if server is unavailable\n- delete notification on server\n- actions in notifications\n- add storage path chooser for local file picker\n- show shared user\n- show notes on sharing\n- min supported server is NC12\n- warn on outdated server: <=NC14\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/30\n"
+  },
+  {
+    "tag_name": "rc-3.6.0-03",
+    "body": "3.6.0 RC3 (April, 02, 2019)\n\n- fix crash on showing file info due to missing note info\n- fix closing push notification after executing action\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/30\n"
+  },
+  {
+    "tag_name": "rc-3.6.0-02",
+    "body": "3.6.0 RC2 (March, 28, 2019)\n\n- fix crash due to missing ownerId\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/30\n"
+  },
+  {
+    "tag_name": "rc-3.6.0-01",
+    "body": "3.6.0 RC1 (March, 27, 2019)\n\n- remove \"expert mode\"\n- show warning if server is unavailable\n- delete notification on server\n- actions in notifications\n- add storage path chooser for local file picker\n- show shared user\n- show notes on sharing\n- min supported server is NC12\n- warn on outdated server: <=NC14\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/30\n"
+  },
+  {
+    "tag_name": "stable-3.5.1",
+    "body": "3.5.1 (March, 18, 2019)\n\n- fixed SSO dialog\n- abort sync on no connection\n- fix chunked upload\n- fix federated share\n- fix button disabled state in folder sync preferences\n- add storage picker to upload local chooser\n- updated translations\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/31\n"
+  },
+  {
+    "tag_name": "rc-3.5.1-02",
+    "body": "3.5.1 RC2 (March, 12, 2019)\n\n- fixed SSO dialog\n- abort sync on no connection\n- fix chunked upload\n- fix federated share\n- fix button disabled state in folder sync preferences\n- add storage picker to upload local chooser\n- updated translations\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/31\n"
+  },
+  {
+    "tag_name": "rc-3.5.1-01",
+    "body": "3.5.1 RC1 (March, 08, 2019)\n\n- fixed SSO dialog\n- abort sync on no connection\n- fix chunked upload\n- fix federated share\n- add storage picker to upload local chooser\n\nFor a full list, please see https://github.com/nextcloud/android/milestone/31\n"
+  },
+  {
+    "tag_name": "stable-3.5.0",
+    "body": "3.5.0 (February, 13, 2019)\n\n- Chunked upload: 1mb on wifi, 10mb on wlan\n- switch to Material design\n- Option to not show notifications for new media folders\n- Add support for QR codes & deep links\n- Direct camera upload\n- Fully working Document provider\n- Detail view: show complete date on click\n- Show correct share error message\n- Use default/device font\n- Sync all downloaded\n- Add battery optimization warning\n\nFor full list please see https://github.com/nextcloud/android/milestone/28\n"
+  },
+  {
+    "tag_name": "rc-3.5.0-04",
+    "body": "3.5.0 RC4 (February, 12, 2019)\n\n- Fix chunked upload on userIds with whitespace\n\nFor full list please see https://github.com/nextcloud/android/milestone/28\n"
+  },
+  {
+    "tag_name": "rc-3.5.0-03",
+    "body": "3.5.0 RC3 (February, 08, 2019)\n\n- Fix not showing activities\n- bug fixes found during RC\n\nFor full list please see https://github.com/nextcloud/android/milestone/28\n"
+  },
+  {
+    "tag_name": "rc-3.5.0-02",
+    "body": "3.5.0 RC1 (February, 01, 2019)\n\n- Chunked upload: 1mb on wifi, 10mb on wlan\n- switch to Material design\n- Option to not show notifications for new media folders\n- Add support for QR codes & deep links\n- Direct camera upload\n- Fully working Document provider\n- Detail view: show complete date on click\n- Show correct share error message\n- Use default/device font\n- Sync all downloaded\n- Add battery optimization warning\n\nFor full list please see https://github.com/nextcloud/android/milestone/28\n"
+  },
+  {
+    "tag_name": "rc-3.5.0-01",
+    "body": "3.5.0 RC1 (January, 29, 2019)\r\n\r\n- Chunked upload: 1mb on cellular, 10mb on wlan\r\n- switch to Material design\r\n- Option to not show notifications for new media folders\r\n- Add support for QR codes & deep links\r\n- Direct camera upload\r\n- Fully working Document provider\r\n- Detail view: show complete date on click\r\n- Show correct share error message\r\n- Use default/device font\r\n- Sync all downloaded\r\n- Add battery optimization warning\r\n\r\nFor full list please see https://github.com/nextcloud/android/milestone/28\r\n"
+  },
+  {
+    "tag_name": "stable-3.4.2",
+    "body": "3.4.2 (January, 21, 2019)\n\n- fix sharing to group\n- show correct share error messages\n- fix bug when searching for user/group if Talk is disabled\n"
+  },
+  {
+    "tag_name": "rc-3.4.2-02",
+    "body": "3.4.2 RC2 (January, 17, 2019)\n\n- fix sharing to group\n- show correct share error messages\n- fix bug when searching for user/group if Talk is disabled\n"
+  },
+  {
+    "tag_name": "rc-3.4.2-01",
+    "body": "3.4.2 RC1 (January, 15, 2019)\n\n- fix sharing to group\n- show correct share error messages\n"
+  },
+  {
+    "tag_name": "stable-3.4.1",
+    "body": "3.4.1 (December, 23, 2018)\n\n- fix wrong detection of direct editing capability for RichDocuments\n"
+  },
+  {
+    "tag_name": "rc-3.4.1-02",
+    "body": "3.4.1 RC2 (December, 21, 2018)\n\n- fix wrong detection of direct editing capability for RichDocuments\n"
+  },
+  {
+    "tag_name": "rc-3.4.1-01",
+    "body": "3.4.1 RC1 (December, 18, 2018)\n\n- fix possible crash on Android 9\n"
+  },
+  {
+    "tag_name": "stable-3.4.0",
+    "body": "3.4.0 (December, 17, 2018)\n\n- hide download when creating share links\n- direct editing files with Collabora (Collabora Server >=4.0)\n- sort deleted files by deletion date by default\n- set/edit notes on shares\n- search inside of text files\n- actions on notifications\n- remember last path on upload\n- share file to Talk room\n- show local size in \"on device\" view\n- SSO: add request header for deck app\n- bug fixes\n\nFor a detailed list, please visit: https://github.com/nextcloud/android/milestone/25\n"
+  },
+  {
+    "tag_name": "rc-3.4.0-03",
+    "body": "3.4.0 RC3 (December, 14, 2018)\n\n- use android-job fork with fix for Android 9.x\n\nFor a detailed list, please visit: https://github.com/nextcloud/android/milestone/25\n"
+  },
+  {
+    "tag_name": "rc-3.4.0-02",
+    "body": "3.4.0 RC2 (December, 13, 2018)\n\n- bug fixes found in RC1\n- crash on resume when in file details\n- crash on resume when opening FAB\n- crash when deleted files was closed prior file listing was completed\n- SSO: add request header for deck app\n\nFor a detailed list, please visit: https://github.com/nextcloud/android/milestone/25\n"
+  },
+  {
+    "tag_name": "rc-3.4.0-01",
+    "body": "3.4.0 RC1 (December, 03, 2018)\n\n- hide download when creating share links\n- direct editing files with Collabora (Collabora Server >=4.0)\n- sort deleted files by deletion date by default\n- set/edit notes on shares\n- search inside of text files\n- actions on notifications\n- remember last path on upload\n- share file to Talk room\n- show local size in \"on device\" view\n- bug fixes\n\nFor a detailed list, please visit: https://github.com/nextcloud/android/milestone/25\n"
+  },
+  {
+    "tag_name": "stable-3.3.2",
+    "body": "## 3.3.2 (November, 2, 2018)\n\n- fix fingerprint not working on certain devices\n"
+  },
+  {
+    "tag_name": "rc-3.3.2-01",
+    "body": "## 3.3.2 RC 1 (October, 31, 2018)\n\n- fix fingerprint not working on certain devices\n"
+  },
+  {
+    "tag_name": "stable-3.3.1",
+    "body": "## 3.3.1 (October, 29, 2018)\n\n- Bug fixes\n"
+  },
+  {
+    "tag_name": "rc-3.3.1-02",
+    "body": "## 3.3.1 RC2 (October, 23, 2018)\n\n- Bug fixes\n"
+  },
+  {
+    "tag_name": "rc-3.3.1-01",
+    "body": "## 3.3.1 RC1 (October, 17, 2018)\n\n- Bug fixes\n"
+  },
+  {
+    "tag_name": "stable-3.3.0",
+    "body": "## 3.3.0 (September, 19, 2018)\n- Support for Trashbin (Nc14+)\n- Media streaming (Nc14+)\n- New media detection for AutoUpload\n- Improved TalkBack screenreader support\n- Show outdated server warning for server <NC12\n- Add support for device credentials\n- Show offline / maintenance info\n- Improved activities\n- Improved file detail / sharing with comments\n- Improved Share link creation via bottom sheet\n- Improved Notification, supporting actions\n- Minor UI/UX improvements\n- Many bug fixes\n"
+  },
+  {
+    "tag_name": "rc-3.3.0-03",
+    "body": "## 3.3.0 RC3 (September, 14, 2018)\n- Bugs fixed found in RC2\n"
+  },
+  {
+    "tag_name": "rc-3.3.0-02",
+    "body": "## 3.3.0 RC2 (September, 07, 2018)\n- Bugs fixed found in RC1\n"
+  },
+  {
+    "tag_name": "rc-3.3.0-01",
+    "body": "## 3.3.0 RC1 (September, 05, 2018)\n- Support for restoring deleted files (Nc14+)\n- Media streaming (Nc14+)\n- New media detection for AutoUpload\n- Accessibility: improved TalkBack screenreader support\n- Show outdated server warning for server <Nc12\n- Add support for device credentials\n- Show offline / maintenance info\n- Improved activities\n- Improved file detail / sharing with comments\n- Improved Share link creation via bottom sheet\n- Improved Notification, supporting actions\n- Many bug fixes\n"
+  },
+  {
+    "tag_name": "stable-3.2.4",
+    "body": "* fix push notification on gplay release\r\n"
+  },
+  {
+    "tag_name": "stable-3.2.3",
+    "body": "* Hotfix for Android 4.x"
+  },
+  {
+    "tag_name": "stable-3.2.2",
+    "body": "* New simple signup screen"
+  },
+  {
+    "tag_name": "stable-3.2.1",
+    "body": "- Enhanced file detail/sharing screen for mail-shares\r\n- Fix local sorting and file selection\r\n- Fix local filtering\r\n- Fix back navigation on privacy screen\r\n- Fix bug on searching\r\n- Fix crash on sorting\r\n- Fix wrong menu highlighting\r\n- various bug fixes"
+  },
+  {
+    "tag_name": "rc-3.2.1-01",
+    "body": "- Enhanced file detail/sharing screen for mail-shares\r\n- Fix local sorting and file selection\r\n- Fix local filtering\r\n- Fix back navigation on privacy screen\r\n- Fix bug on searching\r\n- Fix crash on sorting\r\n- Fix wrong menu highlighting\r\n- various bug fixes"
+  },
+  {
+    "tag_name": "stable-3.2.0",
+    "body": "- Revamped details screen & sharing\r\n- minor UI/UX improvements\r\n- many bug fixes"
+  },
+  {
+    "tag_name": "rc-3.2.0-02",
+    "body": "- bugs fixed found in RC1"
+  },
+  {
+    "tag_name": "rc-3.2.0-01",
+    "body": "- Revamped details screen & sharing\r\n- minor UI/UX improvements\r\n- many bug fixes"
+  },
+  {
+    "tag_name": "stable-3.1.0",
+    "body": "- enhance support for 8.x\r\n- speed improvements\r\n- minor UI/UX improvements\r\n- many bug fixes"
+  },
+  {
+    "tag_name": "rc-3.1.0-02",
+    "body": "- two bug fixes regarding recycler view"
+  },
+  {
+    "tag_name": "rc-3.1.0-01",
+    "body": "- enhance support for 8.x\r\n- speed improvements\r\n- minor UI/UX improvements\r\n- many bug fixes"
+  },
+  {
+    "tag_name": "stable-3.0.3",
+    "body": "- Fix creating folders in auto upload"
+  },
+  {
+    "tag_name": "stable-3.0.2",
+    "body": "Fix crash on old android versions\r\nFix E2E\r\nFix crash on old server"
+  },
+  {
+    "tag_name": "stable-3.0.1",
+    "body": "#2171 Backport e2e iv\r\n#2170 Backport delete public key\r\n#2169 Backport fix ssl\r\n#2166 Backport fix push\r\nNew android lib, fixing wrong user agent"
+  },
+  {
+    "tag_name": "stable-3.0.0",
+    "body": "- End-to-end encryption\r\n- Screen adapted images instead of downloading\r\n- Direct access to operations for single files\r\n- Android 8 support\r\n- IPv6 support\r\n- Folder based sort order\r\n- Right to left language support\r\n- Detect walled garden\r\n- Load more activities when reaching end of stream\r\n- Quicker access to share\r\n- Automatically update avatars\r\n- Auto upload improvements\r\n- Fix push notifications\r\n- UI enhancements\r\n- Bugfixes"
+  },
+  {
+    "tag_name": "rc-3.0.0-03",
+    "body": "* bugs fixed found during RC2"
+  },
+  {
+    "tag_name": "rc-3.0.0-02",
+    "body": "- bugs fixed found during RC1"
+  },
+  {
+    "tag_name": "rc-3.0.0-01",
+    "body": "- End to end encryption\r\n- Screen adapted images instead of downloading\r\n- direct access to operations for single files\r\n- Android 8 support\r\n- IPv6 support\r\n- folder based sort order\r\n- right to left language support\r\n- detect walled garden\r\n- load more activities when reaching end of stream\r\n- quicker access to share\r\n- automatically update avatars\r\n- auto upload improvements\r\n- fix push notifications\r\n- UI enhancements\r\n- bug fixes"
+  },
+  {
+    "tag_name": "stable-2.0.1",
+    "body": "- Fix account removal on first startup for app updates for the f-droid 2.0.0 release #1691"
+  },
+  {
+    "tag_name": "stable-2.0.0",
+    "body": "- Account-wide search (Nc 12+)\r\n- Auto upload available on Android 4+\r\n- Separation between Image & Video for Auto upload\r\n- Ability to define custom folders for Auto upload\r\n- Simple contacts backup & restore\r\n- Server-side Theming support\r\n- Shared files view\r\n- Notifications view and Push notifications (on Google Play-powered devices)\r\n- Favorites, Photos and Activities\r\n- Fingerprint locking\r\n- SVG preview\r\n- Set edit permissions in federated shares of folders (Nc 10+)\r\n- New sorting dialog\r\n- User information view\r\n- Custom external links support\r\n- Detect server maintainance mode\r\n- Nicer error views for images & video preview\r\n- Included privacy policy\r\n- Preserve modification time of uploaded files\r\n- Various bug fixes & improvements"
+  },
+  {
+    "tag_name": "rc-2.0.0-09",
+    "body": "* Fix avatars\r\n* Updating gradle-plugin to 3.0.0-beta7 + forced move buildToolsVersion 26.0.2"
+  },
+  {
+    "tag_name": "rc-2.0.0-08",
+    "body": "* Fixes #1600\r\n* tint external icons\r\n* Prevent NPE in OCFileListFragment\r\n* Database upgrade #23 skipped entire remaining upgrades\r\n"
+  },
+  {
+    "tag_name": "rc-2.0.0-07",
+    "body": "* Fix 4g retry\r\n* Grid view: default to 4 columns\r\n* Make search work again\r\n* Show info messages for push\r\n* add license/source code link\r\n* Fix bug if photo is URL\r\n* Do not show warning on very first start of fresh installation\r\n* NPE if pending uploads exists on account removal\r\n* Using theme utils instead of custom implementation for color fallback\r\n* Improve delete\r\n* Use given empty list icon if it should not be tinted\r\n* Add proper error message to user info screen\r\n..."
+  },
+  {
+    "tag_name": "rc-2.0.0-06",
+    "body": "* Warning for corrupt accounts for 2.0.0RC users\r\n* Fix NPE\r\n* Fix for authentication/favorite/etc\r\n* Show nice error message instead of crash via exception\r\n* No : in git HTTPS link, GitHub, \u2026\r\n* resolves #1477 properly showing empty message after refresh when all \u2026\r\n* Fix duplicate string in contribute UI\r\n* AutoUpload improvements\r\n* Fix Snackbar on wrong login with old server\r\n* RunUI operations in the UI thread\r\n* Fix dialog bad token exception\r\n* Fix fdroid link and add legal attribution\r\n* Fix saveFileWithParentNPE\r\n..."
+  },
+  {
+    "tag_name": "rc-2.0.0-05",
+    "body": "* Fix crash in Fingerprint screen\r\n* Fix crash in Upload screen if menu not present\r\n* Fix push notification icon color to be themed\r\n* Fix color computation for text when theme uses a very light color\r\n* Fix crash when showing \"migrate to auto upload\" dialog\r\n* Fix system back button not working in auto-upload settings dialog\r\n* Fix crash in user info screen when data retrieval failed\r\n* Fix crash in search when the parent (folder) is not available"
+  },
+  {
+    "tag_name": "rc-2.0.0-04",
+    "body": "* fix upload while charging\r\n* fix service crashes at boot time due to DB errors\r\n* fix auto upload settings screen crashes\r\n* hardened DB upgrade\r\n"
+  },
+  {
+    "tag_name": "rc-2.0.0-03",
+    "body": "Release candidate for major release 2.0.0\r\n\r\n* fix db upgrade issues\r\n* fix auto upload screen crashes\r\n* fix auto upload service crashes\r\n* fix cookie errors\r\n* fix activity thumbnails\r\n* new status icons"
+  },
+  {
+    "tag_name": "rc-2.0.0-02",
+    "body": "Release candidate for major release 2.0.0\r\n- fixed firebase"
+  },
+  {
+    "tag_name": "rc-2.0.0-01",
+    "body": "Initial release candidate for mayor release 2.0.0"
+  },
+  {
+    "tag_name": "stable-1.4.3",
+    "body": "Hotfix: ignore oauth header for now and use basic auth to allow new logins for nc12"
+  },
+  {
+    "tag_name": "stable-1.4.2",
+    "body": "- Auto Upload for newly taken photos/images (Android 6+)\r\n- Auto Upload improvements and fixes\r\n- Filtering improvements\r\n- Fix for Android permissions (removed read phone state permission)\r\n- Fix re-upload of files\r\n- Avoid toggling favorite for all selected files\r\n- Link to providers list in the setup screen\r\n- further bugfixes and improvements"
+  },
+  {
+    "tag_name": "rc-1.4.2-04",
+    "body": "* Various search fixes"
+  },
+  {
+    "tag_name": "rc-1.4.2-03",
+    "body": ""
+  },
+  {
+    "tag_name": "rc-1.4.2-01",
+    "body": ""
+  },
+  {
+    "tag_name": "rc-1.4.2-02",
+    "body": ""
+  },
+  {
+    "tag_name": "stable-1.4.1",
+    "body": "- Share URLs to Nextcloud\n- Improve performance of Auto Upload view\n- Fix for removing files\n- Proper email sharee handling\n- Navigation drawer: Fix lag on older devices\n- Android 7: Pending jobs in upload view\n- Android 7: Auto upload: ignore \".tmp\" files and folders\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "rc-1.4.1-04",
+    "body": "- Share URLs to Nextcloud\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "rc-1.4.1-03",
+    "body": "- Share URLs to Nextcloud\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "rc-1.4.1-02",
+    "body": "- Share URLs to Nextcloud\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "rc-1.4.1-01",
+    "body": "- Share URLs to Nextcloud\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "stable-1.4.0",
+    "body": "- External SD card support\n- Auto Upload (Android 7+)\n- What's new start screen\n- Show/hide hidden folders & files\n- Upload view: switch between grid/list view\n- Descend into folder after creating it in uploader\n- Provisioning links to launch and prefill app with login data\n- Add open URL file feature\n- Sort favorite files first in list\n- Account switcher optimizations\n- Bugfixes and design improvements\n- Update library to 1.0.9\n"
+  },
+  {
+    "tag_name": "rc-1.4.0-04",
+    "body": "- update library to 1.0.9\n"
+  },
+  {
+    "tag_name": "rc-1.4.0-03",
+    "body": "- fix instant upload issue for pre Nougat devices\n- added \"What's new\" start screen\n"
+  },
+  {
+    "tag_name": "rc-1.4.0-02",
+    "body": "Enable instant upload on pre nougat version again.\n"
+  },
+  {
+    "tag_name": "rc-1.4.0-01",
+    "body": "- External SD card support\n- Auto Upload (Android 7+)\n- What's new start screen\n- Show/hide hidden folders & files\n- Upload view: switch between grid/list view\n- Descend into folder after creating it in uploader\n- Provisioning links to launch and prefill app with login data\n- Add open URL file feature\n- Sort favorite files first in list\n- Account switcher optimizations\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "stable-1.3.1",
+    "body": "- Move actionnow easier to discover - difference between single/multi selection\n- Show move/copy context in toolbar title\n- Share file with dictadroid to Nextcloud\n- Don't show upload failure notification for already deleted files\n"
+  },
+  {
+    "tag_name": "stable-1.3.0",
+    "body": "- Files drop permission in share view\n- Display quota if configured/available in navigation drawer\n- Resume chunked uploads instead of complete restarts\n- Filter remote and local file lists\n- Simple integration with DAVdroid for calendar and contacts sync\n- Mix folders and files on sort by date\n- Upload when charging option\n- Revamp upload options Move/Copy/Just-Upload\n- Text can be selected and shared to Nextcloud\n- Respect metered wifi and block instant uploads\n- Proper handling of .djvu files\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "rc-1.3.0-02",
+    "body": "- Files drop permission in share viewe\n- Display quota if configured/available in navigation drawer\n- Resume chunked uploads instead of complete restarts\n- Filter remote and local file lists\n- Simple integration with DAVdroid for calendar and contacts sync (new in RC2)\n- Mix folders and files on sort by date\n- Upload when charging option\n- Revamp upload options Move/Copy/Just-Upload\n- Text can be selected and shared to Nextcloud\n- Respect metered wifi and block instant uploads\n- Proper handling of .djvu files\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "rc-1.3.0-01",
+    "body": "- Files drop permission in share view\n- Display quota if configured/available in navigation drawer\n- Resume chunked uploads instead of complete restarts\n- Filter remote and local file lists\n- Mix folders and files on sort by date\n- Upload when charging option\n- Revamp upload options Move/Copy/Just-Upload\n- Text can be selected and shared to Nextcloud\n- Respect metered wifi and block instant uploads\n- Proper handling of .djvu files\n- Bugfixes and design improvements\n"
+  },
+  {
+    "tag_name": "stable-1.2.0",
+    "body": "- Multi select capabilities\n- Confirmation dialog on account removal\n- Offline available filter in main menu\n- Sorting capability when choosing files to be uploaded\n- Video thumbnails if activated on server\n- Thumbnails during upload\n- Fixed user agent for file firewalling\n- Showing server side folder sizes\n- Text in text preview can now be selected\n- Search suggestions fixed for user/group search during sharing\n- Minor bugfixes\n"
+  },
+  {
+    "tag_name": "rc-1.2.0-02",
+    "body": "- Multi select capabilities\n- Confirmation dialog on account removal\n- Offline available filter in main menu\n- Sorting capability when choosing files to be uploaded\n- Video thumbnails if activated on server\n- Thumbnails during upload\n- Fixed user agent for file firewalling\n- Showing server side folder sizes\n- Text in test preview can now be selected\n- Search suggestions fixed for user/group search during sharing\n- Minor bugfixes\n"
+  },
+  {
+    "tag_name": "rc-1.2.0-01",
+    "body": "- Multi select capabilities\n- Confirmation dialog on account removal\n- Offline available filter in main menu\n- Sorting capability when choosing files to be uploaded\n- Video thumbnails if activated on server\n- Thumbnails during upload\n- Fixed user agent for file firewalling\n- Showing server side folder sizes\n- Text in test preview can now be selected\n- Search suggestions fixed for user/group search during sharing\n- Minor bugfixes\n"
+  },
+  {
+    "tag_name": "stable-1.1.0",
+    "body": "- New main menu to switch accounts easily\n- Ability to open Nextcloud hosted files (read-only) from other apps that support the standard file chooser (requires Android 4.4 / KitKat or higher)\n- \"Select all files\" for upload within a folder\n- Optional feature to auto-create monthly folders for your instant uploads\n- Revamped login screen\n- Minor bugfixes\n"
+  },
+  {
+    "tag_name": "rc-1.1.0-02",
+    "body": "- Minor bugfixes\n- New main menu to switch accounts easily\n- Ability to open Nextcloud hosted files (read-only) from other apps that support the standard file chooser (requires Android 4.4 / KitKat or higher)\n- \"Select all files\" for upload within a folder\n- Optional feature to auto-create monthly folders for your instant uploads\n- Revamped login screen\n"
+  },
+  {
+    "tag_name": "rc-1.1.0-01",
+    "body": "- New main menu to switch accounts easily\n- Ability to open Nextcloud hosted files (read-only) from other apps that support the standard file chooser (requires Android 4.4 / KitKat or higher)\n- \"Select all files\" for upload within a folder\n- Optional feature to auto-create monthly folders for your instant uploads\n- Revamped login screen\n"
+  },
+  {
+    "tag_name": "stable-1.0.1",
+    "body": "- Fix thumbnail preview support for new files (#37)\n- Add support for animated GIFs (#9)\n- Optimized uploader layout (#5)\n"
+  },
+  {
+    "tag_name": "stable-1.0.0",
+    "body": "Initial release of Nextcloud's Android app.\n"
+  }
+]
